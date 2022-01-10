@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nadzienie">
+        <item>Jagodowe</item>
+        <item>Orzehowe</item>
+        <item>Czekoladowe</item>
+    </string-array>
+</resources>

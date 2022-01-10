@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weight">
+        <item> 1 kg</item>
+        <item> 2 kg</item>
+        <item> 3 kg</item>
+    </string-array>
+</resources>

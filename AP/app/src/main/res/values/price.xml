@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="price">
+        <item> &lt; 180 zl </item>
+        <item> &lt; 190 zl</item>
+        <item> &lt; 230 zl</item>
+    </string-array>
+</resources>
